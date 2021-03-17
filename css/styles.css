@@ -63,3 +63,11 @@ nav {
 	color: #fffede;
 	padding-top: 10px
 }
+
+.footer {
+	background-color: #fffede
+}
+
+.p .footer {
+	color: #000000
+}
