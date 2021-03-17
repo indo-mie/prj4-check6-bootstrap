@@ -21,11 +21,11 @@ body {
 }
 
 nav {
-	background: #000000;
+	background: #fffede;
 }
 
 .nav-link {
-	color: #fffede;
+	color: #000000;
 }
 
 .nav-link:hover {
@@ -33,7 +33,7 @@ nav {
 }
 
 .navbar-brand {
-	color: #fffede;
+	color: #000000;
 }
 
 .navbar-brand:hover {
@@ -41,7 +41,7 @@ nav {
 }
 
 .btn-outline-success {
-	color: #fffede;
+	color: #000000;
 }
 
 .navbar-toggler-icon {
