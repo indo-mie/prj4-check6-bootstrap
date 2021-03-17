@@ -16,6 +16,11 @@ body {
 	background: #000000;
 }
 
+.title-text {
+	text-align: center;
+	color: #fffede;
+}
+
 .logo img {
 	width: 200px;
 }
