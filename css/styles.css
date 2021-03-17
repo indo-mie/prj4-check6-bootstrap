@@ -28,7 +28,7 @@ nav {
 }
 
 .nav-link:hover {
-	color: #D31619
+	color: #D31619;
 }
 
 .navbar-brand {
@@ -36,7 +36,7 @@ nav {
 }
 
 .navbar-brand:hover {
-	color:#D31619
+	color:#D31619;
 }
 
 .btn-outline-success {
@@ -44,5 +44,5 @@ nav {
 }
 
 .navbar-toggler-icon {
-	background-image: url("../images/menu.png")
+	background-image: url("../images/menu.png");
 }
