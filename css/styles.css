@@ -13,3 +13,19 @@ white: #ffffff
 .logo img {
 	width: 200px;
 }
+
+nav {
+	background: #000000;
+}
+
+.nav-link {
+	color: #fffede;
+}
+
+.navbar-brand {
+	color: #fffede;
+}
+
+.btn-outline-success {
+	color: #fffede;
+}
