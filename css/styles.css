@@ -4,4 +4,12 @@
 Black: #000000
 Cream white: #fffede
 white: #ffffff
+*/
 
+.logo {
+	background: #000000;
+}
+
+.logo img {
+	width: 200px;
+}
