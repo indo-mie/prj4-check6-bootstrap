@@ -4,6 +4,7 @@
 Black: #000000
 Cream white: #fffede
 white: #ffffff
+dark red: #D31619
 */
 
 .logo {
@@ -22,8 +23,16 @@ nav {
 	color: #fffede;
 }
 
+.nav-link:hover {
+	color: #D31619
+}
+
 .navbar-brand {
 	color: #fffede;
+}
+
+.navbar-brand:hover {
+	color:#D31619
 }
 
 .btn-outline-success {
