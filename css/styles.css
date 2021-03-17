@@ -7,6 +7,10 @@ white: #ffffff
 dark red: #D31619
 */
 
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
 .logo {
 	background: #000000;
 }
@@ -37,4 +41,8 @@ nav {
 
 .btn-outline-success {
 	color: #fffede;
+}
+
+.navbar-toggler-icon {
+	background-image: url("../images/menu.png")
 }
